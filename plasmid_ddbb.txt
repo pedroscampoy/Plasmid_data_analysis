@@ -29,16 +29,28 @@ Acetobacter pasteurianus	Bacteria	Proteobacteria	Alphaproteobacteria	pAP2	NC_007
 Acetobacter pasteurianus	Bacteria	Proteobacteria	Alphaproteobacteria	pGR7	NC_010177.2	AM922326	2.446	29.5585	3	-	-	-	3	-
 Acetobacter pasteurianus	Bacteria	Proteobacteria	Alphaproteobacteria	pAC258-26	NC_019327.1	JQ418524	20.898	51.8853	32	-	-	-	32	-
 Acetobacter pasteurianus	Bacteria	Proteobacteria	Alphaproteobacteria	pAC258-29	NC_019337.1	JQ418523	30.498	50.7115	42	-	-	-	42	-
+<<<<<<< HEAD
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp1	NC_021976.1	HF677571	194.78	52.0094	178	-	-	-	210	32
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp4	NC_021977.1	HF677574	11.105	52.2828	12	-	-	-	14	2
+=======
+Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp1	NC_021976.1	-	194.78	52.0094	178	-	-	-	210	32
+Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp4	NC_021977.1	-	11.105	52.2828	12	-	-	-	14	2
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp6	NC_021978.1	HF677576	6.548	51.7868	8	-	-	-	10	2
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp7	NC_021979.1	HF677577	3.851	47.0267	3	-	-	-	3	-
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp3	NC_021992.1	HF677573	15.601	55.4708	15	-	-	-	17	2
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp5	NC_021993.1	HF677575	9.914	50.7464	8	-	-	-	12	4
+<<<<<<< HEAD
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp1	NZ_HF677571.1	-	194.78	52.0094	185	-	-	-	197	-
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp2	NZ_HF677572.1	HF677572	18.169	55.5672	21	-	-	-	23	2
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp3	NZ_HF677573.1	-	15.601	55.4708	14	-	-	-	16	-
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp4	NZ_HF677574.1	-	11.105	52.2828	12	-	-	-	13	-
+=======
+Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp1	NZ_HF677571.1	HF677571	194.78	52.0094	185	-	-	-	197	-
+Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp2	NZ_HF677572.1	HF677572	18.169	55.5672	21	-	-	-	23	2
+Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp3	NZ_HF677573.1	-	15.601	55.4708	14	-	-	-	16	-
+Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp4	NZ_HF677574.1	HF677574	11.105	52.2828	12	-	-	-	13	-
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp5	NZ_HF677575.1	-	9.914	50.7464	11	-	-	-	11	-
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp6	NZ_HF677576.1	-	6.548	51.7868	9	-	-	-	9	-
 Acetobacter pasteurianus 386B	Bacteria	Proteobacteria	Alphaproteobacteria	Apa386Bp7	NZ_HF677577.1	-	3.851	47.0267	2	-	-	-	2	-
@@ -382,6 +394,7 @@ Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	NZ_
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed4	NZ_CP027186.1	CP027186	38.505	35.263	57	-	-	-	62	5
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	NZ_CP027187.1	CP027187	6.078	39.2563	6	-	-	-	6	-
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	pJBA13_1	NZ_CP020582.1	CP020582	90.972	34.4205	104	-	-	-	110	6
+<<<<<<< HEAD
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	CP033751	7.181	36.8194	10	-	-	-	10	-
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033752	13.195	35.9757	16	-	-	-	16	-
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033753	86.551	40.4247	61	-	-	-	74	-
@@ -390,6 +403,8 @@ Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	C
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	p597A-6.7	-	CP033870	6.667	34.2283	10	-	-	-	11	-
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	p597A-14.8	-	CP033871	14.807	34.3959	19	-	-	-	19	-
 Acinetobacter baumannii	Bacteria	Proteobacteria	Gammaproteobacteria	pAb-MCR4.3	-	CP033872	35.502	38.5725	33	-	-	-	39	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Acinetobacter baumannii 1656-2	Bacteria	Proteobacteria	Gammaproteobacteria	ABKp1	NC_017163.1	CP001922	74.451	33.4663	95	-	-	-	100	5
 Acinetobacter baumannii 1656-2	Bacteria	Proteobacteria	Gammaproteobacteria	ABKp2	NC_017164.1	CP001923	8.041	33.5033	7	-	-	-	8	1
 Acinetobacter baumannii 3909	Bacteria	Proteobacteria	Gammaproteobacteria	p1ABST78	NZ_AEOZ01000236.1	AEOZ01000236	26.411	37.2648	28	-	-	-	34	6
@@ -586,12 +601,15 @@ Acinetobacter sp. DUT-2	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	C
 Acinetobacter sp. DUT-2	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed4	-	CP014655	11.158	35.1138	13	-	-	-	13	-
 Acinetobacter sp. DUT-2	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed5	-	CP014656	5.511	57.6302	5	-	-	-	6	1
 Acinetobacter sp. EB104	Bacteria	Proteobacteria	Gammaproteobacteria	pAC450	NC_002760.1	AJ311718	4.379	49.7374	4	-	-	-	4	-
+<<<<<<< HEAD
 Acinetobacter sp. FDAARGOS_493	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033857	67.023	33.3766	90	-	-	-	92	-
 Acinetobacter sp. FDAARGOS_493	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033859	16.832	34.2978	20	-	-	-	20	-
 Acinetobacter sp. FDAARGOS_493	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	CP033860	11.6	37.0431	12	-	-	-	14	-
 Acinetobacter sp. FDAARGOS_494	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	-	CP033867	1.226	34.5024	2	-	-	-	2	-
 Acinetobacter sp. FDAARGOS_560	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033863	23.171	44.7931	28	-	-	-	28	-
 Acinetobacter sp. FDAARGOS_560	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033864	68.135	41.3194	70	-	-	-	70	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Acinetobacter sp. LoGeW2-3	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	NZ_CP024012.1	CP024012	179.399	39.3464	136	-	-	-	155	19
 Acinetobacter sp. M131	Bacteria	Proteobacteria	Gammaproteobacteria	pM131_NDM1	NC_025116.1	JX072963	47.271	40.7798	50	-	-	-	50	-
 Acinetobacter sp. M131	Bacteria	Proteobacteria	Gammaproteobacteria	pM131-11	NC_025117.1	JX101638	1.735	37.2334	2	-	-	-	2	-
@@ -1447,6 +1465,7 @@ Bacillus safensis	Bacteria	Terrabacteria group	Firmicutes	pGR-8	NZ_CM008163.1	CM
 Bacillus siamensis	Bacteria	Terrabacteria group	Firmicutes	pSCSIO05746	NZ_CP025002.1	CP025002	12.395	38.0799	15	-	-	-	16	1
 Bacillus simplex	Bacteria	Terrabacteria group	Firmicutes	pSHB26	NZ_CP011009.1	CP011009	176.219	36.3746	152	3	-	-	166	11
 Bacillus smithii	Bacteria	Terrabacteria group	Firmicutes	pDSM4216	NZ_CP012025.1	CP012025	12.514	35.9038	15	-	-	-	17	2
+<<<<<<< HEAD
 Bacillus sp. (in: Bacteria)	Bacteria	Terrabacteria group	Firmicutes	unnamed1	-	CP033788	9.426	33.5137	13	-	-	-	14	-
 Bacillus sp. (in: Bacteria)	Bacteria	Terrabacteria group	Firmicutes	unnamed2	-	CP033789	276.458	33.8174	236	-	-	-	269	-
 Bacillus sp. (in: Bacteria)	Bacteria	Terrabacteria group	Firmicutes	unnamed3	-	CP033790	53.042	36.5672	71	-	-	-	73	-
@@ -1455,6 +1474,8 @@ Bacillus sp. (in: Bacteria)	Bacteria	Terrabacteria group	Firmicutes	unnamed5	-	C
 Bacillus sp. (in: Bacteria)	Bacteria	Terrabacteria group	Firmicutes	unnamed6	-	CP033793	52.219	34.769	58	-	-	-	60	-
 Bacillus sp. (in: Bacteria)	Bacteria	Terrabacteria group	Firmicutes	unnamed7	-	CP033794	0.919	33.0794	1	-	-	-	1	-
 Bacillus sp. (in: Bacteria)	Bacteria	Terrabacteria group	Firmicutes	unnamed8	-	CP033796	7.456	28.2189	6	-	-	-	6	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Bacillus sp. 24	Bacteria	Terrabacteria group	Firmicutes	pBHS24	NC_019230.1	HM235948	5.031	36.7521	4	-	-	-	4	-
 Bacillus sp. 275	Bacteria	Terrabacteria group	Firmicutes	unnamed	NZ_CP019627.1	CP019627	6.389	43.2462	6	-	-	-	6	-
 Bacillus sp. ABP14	Bacteria	Terrabacteria group	Firmicutes	pABP14	NZ_CP017017.1	CP017017	11.199	30.4045	9	-	-	-	9	-
@@ -2610,12 +2631,20 @@ Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_cp26	NC_01184
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp36	NC_011867.1	CP001314	35.446	23.8052	19	-	-	-	32	13
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp32-10	NC_011869.1	CP001320	41.906	27.3684	25	-	-	-	59	34
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp17	NC_011871.1	CP001315	22.433	24.1385	18	-	-	-	23	5
+<<<<<<< HEAD
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp28-1	NC_011873.1	CP001316	27.689	33.5657	21	-	-	-	29	8
+=======
+Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp28-1	NC_011873.1	-	27.689	33.5657	21	-	-	-	29	8
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp25	NC_011875.1	CP001317	25.791	23.2833	18	-	-	-	21	3
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp54	NC_011877.1	CP001318	58.069	26.5477	60	-	-	-	69	9
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp36	NZ_CP001314.1	-	35.446	23.8052	14	-	-	-	23	-
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp17	NZ_CP001315.1	-	22.433	24.1385	16	-	-	-	18	-
+<<<<<<< HEAD
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp28-1	NZ_CP001316.1	-	27.689	33.5657	28	-	-	-	30	-
+=======
+Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp28-1	NZ_CP001316.1	CP001316	27.689	33.5657	28	-	-	-	30	-
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp25	NZ_CP001317.1	-	25.791	23.2833	19	-	-	-	21	-
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_lp54	NZ_CP001318.1	-	58.069	26.5477	60	-	-	-	67	-
 Borreliella garinii Far04	Bacteria	Spirochaetes	Spirochaetia	Far04_cp26	NZ_CP001319.1	-	26.994	25.8057	26	-	-	-	26	-
@@ -3263,6 +3292,7 @@ Chromobacterium sp. IIBBL 112-1	Bacteria	Proteobacteria	Betaproteobacteria	unnam
 Chromobacterium sp. IIBBL 274-1	Bacteria	Proteobacteria	Betaproteobacteria	unnamed	NZ_CP029555.1	CP029555	74.363	63.463	78	-	-	-	82	4
 Chroococcidiopsis thermalis PCC 7203	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	pCHRO.02	NC_019696.1	CP003599	2.779	44.0806	2	-	-	-	2	-
 Chroococcidiopsis thermalis PCC 7203	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	pCHRO.01	NC_019699.1	CP003598	370.83	45.0638	335	-	-	-	355	20
+<<<<<<< HEAD
 Chryseobacterium balustinum	Bacteria	FCB group	Bacteroidetes/Chlorobi group	unnamed	-	CP033935	108.191	32.426	98	-	-	-	102	-
 Chryseobacterium glaciei	Bacteria	FCB group	Bacteroidetes/Chlorobi group	pMP01	NZ_CP015200.1	CP015200	16.553	40.5425	12	-	-	-	15	3
 Chryseobacterium glaciei	Bacteria	FCB group	Bacteroidetes/Chlorobi group	pMP02	NZ_CP015201.1	CP015201	11.45	40.3755	12	-	-	-	14	2
@@ -3270,6 +3300,10 @@ Chryseobacterium joostei	Bacteria	FCB group	Bacteroidetes/Chlorobi group	unnamed
 Chryseobacterium shandongense	Bacteria	FCB group	Bacteroidetes/Chlorobi group	unnamed	-	CP033916	68.806	33.4491	60	-	-	-	62	-
 Chryseobacterium shandongense	Bacteria	FCB group	Bacteroidetes/Chlorobi group	unnamed	-	CP033913	70.071	33.5288	59	-	-	-	62	-
 Chryseobacterium sp. G0186	Bacteria	FCB group	Bacteroidetes/Chlorobi group	unnamed	-	CP033919	25.644	32.4871	27	-	-	-	27	-
+=======
+Chryseobacterium glaciei	Bacteria	FCB group	Bacteroidetes/Chlorobi group	pMP01	NZ_CP015200.1	CP015200	16.553	40.5425	12	-	-	-	15	3
+Chryseobacterium glaciei	Bacteria	FCB group	Bacteroidetes/Chlorobi group	pMP02	NZ_CP015201.1	CP015201	11.45	40.3755	12	-	-	-	14	2
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Chryseobacterium sp. IHB B 17019	Bacteria	FCB group	Bacteroidetes/Chlorobi group	pAR01	NZ_CP013294.1	CP013294	5.558	32.7276	6	-	1	-	7	-
 Citrobacter amalonaticus	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	NZ_CP014069.2	CP014069	53.359	46.7175	66	-	-	-	80	14
 Citrobacter amalonaticus Y19	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	NZ_CP011133.1	CP011133	290.993	47.7369	321	-	-	-	339	18
@@ -3329,7 +3363,10 @@ Citrobacter freundii	Bacteria	Proteobacteria	Gammaproteobacteria	pUMH19	NZ_CP024
 Citrobacter freundii	Bacteria	Proteobacteria	Gammaproteobacteria	pUMH14_1	NZ_CP024681.1	CP024681	134.386	51.1497	131	-	-	-	144	13
 Citrobacter freundii	Bacteria	Proteobacteria	Gammaproteobacteria	pUMH14_2	NZ_CP024682.1	CP024682	71.274	55.5434	75	-	-	-	84	9
 Citrobacter freundii	Bacteria	Proteobacteria	Gammaproteobacteria	pUMH16	NZ_CP024678.1	CP024678	51.504	52.062	53	-	-	-	55	2
+<<<<<<< HEAD
 Citrobacter freundii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	-	CP033743	127.175	50.771	130	-	-	-	135	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Citrobacter freundii CFNIH1	Bacteria	Proteobacteria	Gammaproteobacteria	pKEC-a3c	NZ_CP007558.1	CP007558	272.297	52.6535	304	-	-	-	341	37
 Citrobacter freundii complex sp. CFNIH2	Bacteria	Proteobacteria	Gammaproteobacteria	pKPC-349c	NZ_CP025758.1	CP025758	62.588	53.0325	64	-	-	-	78	14
 Citrobacter freundii complex sp. CFNIH3	Bacteria	Proteobacteria	Gammaproteobacteria	pKPC-59e4	NZ_CP026236.1	CP026236	65.291	52.6183	58	-	-	-	70	12
@@ -3655,7 +3692,10 @@ Corynebacterium maris DSM 45190	Bacteria	Terrabacteria group	Actinobacteria	pCma
 Corynebacterium mustelae	Bacteria	Terrabacteria group	Actinobacteria	pCmus45274	NZ_CP011543.1	CP011543	39.867	51.2579	40	-	-	-	42	2
 Corynebacterium mustelae	Bacteria	Terrabacteria group	Actinobacteria	phiCmus45274	NZ_CP011544.1	CP011544	42.805	56.414	55	-	-	-	56	1
 Corynebacterium phocae	Bacteria	Terrabacteria group	Actinobacteria	pCpho	NZ_CP009250.1	CP009250	12.274	53.2915	6	-	-	-	6	-
+<<<<<<< HEAD
 Corynebacterium pseudopelargi	Bacteria	Terrabacteria group	Actinobacteria	pCCM8832	-	CP033899	3.108	53.0245	3	-	-	-	3	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Corynebacterium renale	Bacteria	Terrabacteria group	Actinobacteria	pCR1	NC_004833.1	X99132	1.488	51.8817	1	-	-	-	1	-
 Corynebacterium resistens	Bacteria	Terrabacteria group	Actinobacteria	pJA144188	NC_014167.1	FN825254	28.312	55.2522	20	-	-	-	29	7
 Corynebacterium sp. L2-79-05	Bacteria	Terrabacteria group	Actinobacteria	pLEW279a	NC_009128.1	DQ390458	34.606	58.6372	43	-	-	-	43	-
@@ -4188,6 +4228,7 @@ Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	pDSMZ16690
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	p35734-141.404kb	NZ_CP010360.2	CP010360	141.402	54.9589	156	-	-	-	169	13
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	p35734-109.753kb	NZ_CP012163.1	CP012163	109.753	50.8651	104	-	-	-	115	11
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	p35734-8.452kb	NZ_CP012164.1	CP012164	8.452	54.0345	9	-	-	-	12	3
+<<<<<<< HEAD
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033797	53.756	47.3882	72	-	-	-	75	-
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033798	103.835	50.821	90	-	-	-	113	-
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	CP033799	130.817	51.939	131	-	-	-	148	-
@@ -4198,6 +4239,8 @@ Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed7	-
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed8	-	CP033805	1.147	56.408	2	-	-	-	2	-
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed9	-	CP033806	1.144	56.8182	2	-	-	-	2	-
 Enterobacter roggenkampii	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed10	-	CP033807	1.085	61.1982	2	-	-	-	2	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Enterobacter sp. 638	Bacteria	Proteobacteria	Gammaproteobacteria	pENTE01	NC_009425.1	CP000654	157.749	50.5702	143	-	-	-	152	9
 Enterobacter sp. CRENT-193	Bacteria	Proteobacteria	Gammaproteobacteria	pCRENT-193_1	NZ_CP024813.1	CP024813	298.989	46.776	309	-	-	-	343	34
 Enterobacter sp. CRENT-193	Bacteria	Proteobacteria	Gammaproteobacteria	pCRENT-193_2	NZ_CP024814.1	CP024814	44.962	46.4859	55	-	-	-	59	4
@@ -4506,8 +4549,11 @@ Enterococcus mundtii QU 25	Bacteria	Terrabacteria group	Firmicutes	pQY024	NC_022
 Enterococcus sp. CR-Ec1	Bacteria	Terrabacteria group	Firmicutes	pCREc1	NZ_CP025224.1	CP025224	70.706	36.4806	71	-	-	-	72	1
 Enterococcus sp. FDAARGOS_375	Bacteria	Terrabacteria group	Firmicutes	unnamed2	NZ_CP023513.1	CP023513	20.632	30.3655	23	-	-	-	28	5
 Enterococcus sp. FDAARGOS_375	Bacteria	Terrabacteria group	Firmicutes	unnamed1	NZ_CP023514.1	CP023514	147.615	35.6495	139	-	-	-	163	24
+<<<<<<< HEAD
 Enterococcus sp. FDAARGOS_553	Bacteria	Terrabacteria group	Firmicutes	unnamed1	-	CP033739	68.599	35.1332	74	-	-	-	88	-
 Enterococcus sp. FDAARGOS_553	Bacteria	Terrabacteria group	Firmicutes	unnamed2	-	CP033741	64.163	34.0882	64	-	-	-	73	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Enterococcus wangshanyuanii	Bacteria	Terrabacteria group	Firmicutes	unnamed2	NZ_CP021875.1	CP021875	30.412	35.3906	36	-	-	-	39	3
 Enterococcus wangshanyuanii	Bacteria	Terrabacteria group	Firmicutes	unnamed3	NZ_CP021876.1	CP021876	206.454	34.257	204	-	-	-	216	12
 Enterococcus wangshanyuanii	Bacteria	Terrabacteria group	Firmicutes	unnamed4	NZ_CP021877.1	CP021877	12.475	35.6473	13	-	-	-	14	1
@@ -5728,6 +5774,7 @@ Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	p1_020031	NZ_CP0333
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	p2_020031	NZ_CP033398.1	CP033398	2.088	47.2701	3	-	-	-	3	-
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	pNDM5_020031	NZ_CP033399.1	CP033399	46.161	46.6541	58	-	-	-	62	4
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	pOXA1_020031	NZ_CP033400.1	CP033400	91.652	50.9536	92	-	-	-	127	35
+<<<<<<< HEAD
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033761	111.938	52.2209	111	-	-	-	145	-
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033763	3.272	45.8435	2	-	-	-	4	-
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	CP033764	5.43	51.0313	8	-	-	-	10	-
@@ -5744,6 +5791,8 @@ Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	p50579417_3_OXA-48	
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	p50579417_4	-	CP033881	61.89	52.0957	87	-	-	-	90	-
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	p50579417_1	-	CP033882	96.948	47.5709	106	-	3	-	111	-
 Escherichia coli	Bacteria	Proteobacteria	Gammaproteobacteria	p50579417_2	-	CP033883	88.005	52.7265	105	-	-	-	118	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Escherichia coli 042	Bacteria	Proteobacteria	Gammaproteobacteria	pAA	NC_017627.1	FN554767	113.346	49.5483	121	-	-	-	157	36
 Escherichia coli 1303	Bacteria	Proteobacteria	Gammaproteobacteria	p1303_109	NZ_CP009167.1	CP009167	108.501	47.7811	107	-	-	-	125	18
 Escherichia coli 1303	Bacteria	Proteobacteria	Gammaproteobacteria	p1303_95	NZ_CP009168.1	CP009168	94.959	48.0808	118	-	3	-	124	3
@@ -5981,11 +6030,19 @@ Escherichia coli PCN061	Bacteria	Proteobacteria	Gammaproteobacteria	PCN061p3	NZ_
 Escherichia coli PCN061	Bacteria	Proteobacteria	Gammaproteobacteria	PCN061p4	NZ_CP006640.1	CP006640	34.692	48.5472	47	-	-	-	50	3
 Escherichia coli PCN061	Bacteria	Proteobacteria	Gammaproteobacteria	PCN061p5	NZ_CP006641.1	CP006641	103.644	50.9407	127	-	-	-	137	10
 Escherichia coli PCN061	Bacteria	Proteobacteria	Gammaproteobacteria	PCN061p6	NZ_CP006642.1	CP006642	145.722	51.0184	135	-	-	-	168	33
+<<<<<<< HEAD
 Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pHUSEC411like	NC_022371.1	HG428756	98.864	53.7921	115	-	-	-	134	19
 Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pECOS88like	NZ_CBTO000000000.1	CBTO000000000	127.123	48.8189	136	-	-	5	141	-
 Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pECOS88like contig 1	NZ_CBTO010000001.1	CBTO010000001	83.288	50.0432	102	-	-	-	119	17
 Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pECOS88like contig 2	NZ_CBTO010000002.1	CBTO010000002	43.835	47.3663	38	-	-	-	51	13
 Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pHUSEC411like	NZ_HG428756.1	-	98.864	53.7921	109	-	-	-	117	-
+=======
+Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pHUSEC411like	NC_022371.1	-	98.864	53.7921	115	-	-	-	134	19
+Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pECOS88like	NZ_CBTO000000000.1	CBTO000000000	127.123	48.8189	136	-	-	5	141	-
+Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pECOS88like contig 1	NZ_CBTO010000001.1	CBTO010000001	83.288	50.0432	102	-	-	-	119	17
+Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pECOS88like contig 2	NZ_CBTO010000002.1	CBTO010000002	43.835	47.3663	38	-	-	-	51	13
+Escherichia coli PMV-1	Bacteria	Proteobacteria	Gammaproteobacteria	pHUSEC411like	NZ_HG428756.1	HG428756	98.864	53.7921	109	-	-	-	117	-
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Escherichia coli RS218	Bacteria	Proteobacteria	Gammaproteobacteria	pRS218	-	CP007150	114.231	51.0229	122	-	-	-	130	8
 Escherichia coli S88	Bacteria	Proteobacteria	Gammaproteobacteria	pECOS88	NC_011747.1	CU928146	133.853	49.2929	138	-	-	-	168	30
 Escherichia coli SE11	Bacteria	Proteobacteria	Gammaproteobacteria	pSE11-4	NC_011407.1	AP009244	6.929	48.0012	9	-	-	-	10	1
@@ -6545,10 +6602,13 @@ Klebsiella aerogenes	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed4	NZ_CP0
 Klebsiella aerogenes	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	NZ_CP028952.1	CP028952	451.422	49.621	405	-	-	-	498	93
 Klebsiella aerogenes	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	NZ_CP031757.1	CP031757	9.294	55.1539	13	-	-	-	13	-
 Klebsiella aerogenes	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	NZ_CP031758.1	CP031758	2.938	44.7243	2	-	-	-	5	3
+<<<<<<< HEAD
 Klebsiella aerogenes	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033818	9.294	55.1539	13	-	-	-	13	-
 Klebsiella aerogenes	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033819	1.303	61.7805	2	-	-	-	2	-
 Klebsiella aerogenes	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	CP033820	1.055	55.3555	1	-	-	-	2	-
 Klebsiella aerogenes	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed4	-	CP033821	1.033	49.274	-	-	-	-	1	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Klebsiella aerogenes EA1509E	Bacteria	Proteobacteria	Gammaproteobacteria	pEA1509_B	NC_020180.1	FO203354	162.202	52.5431	204	-	-	-	212	8
 Klebsiella aerogenes EA1509E	Bacteria	Proteobacteria	Gammaproteobacteria	pEA1509_A	NC_020182.1	FO203353	9.294	55.1539	13	-	-	-	13	-
 Klebsiella michiganensis	Bacteria	Proteobacteria	Gammaproteobacteria	pKOXM1A	NZ_CP008842.1	CP008842	204.468	52.0468	202	-	-	-	238	36
@@ -6626,8 +6686,11 @@ Klebsiella oxytoca	Bacteria	Proteobacteria	Gammaproteobacteria	unitig_2_pilon	NZ
 Klebsiella oxytoca	Bacteria	Proteobacteria	Gammaproteobacteria	unitig_3_pilon	NZ_CP026718.1	CP026718	91.175	50.6356	85	-	-	-	94	9
 Klebsiella oxytoca	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	NZ_CP027425.1	CP027425	195.881	52.4992	189	-	-	-	225	36
 Klebsiella oxytoca	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	NZ_CP029127.1	CP029127	78.352	49.2215	68	-	-	-	89	21
+<<<<<<< HEAD
 Klebsiella oxytoca	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033845	6.078	39.2563	6	-	-	-	6	-
 Klebsiella oxytoca	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033846	8.424	36.7759	8	-	-	-	11	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Klebsiella oxytoca KONIH1	Bacteria	Proteobacteria	Gammaproteobacteria	pKOX-137	NZ_CP008789.1	CP008789	133.397	52.1196	148	-	-	-	167	19
 Klebsiella oxytoca KONIH1	Bacteria	Proteobacteria	Gammaproteobacteria	pKOX-86d	NZ_CP008790.1	CP008790	193.725	51.5845	222	-	-	-	239	17
 Klebsiella oxytoca KONIH1	Bacteria	Proteobacteria	Gammaproteobacteria	pKPC-727	NZ_CP008791.1	CP008791	205.586	53.8962	234	-	-	-	271	37
@@ -7538,6 +7601,7 @@ Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	p1_015625	-	CP
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	p2_015625	-	CP033393	5.596	51.1437	7	-	-	-	10	3
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	pCTXM65_015625	-	CP033394	142.207	53.2076	159	-	-	-	196	37
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	pKPC12_015625	-	CP033395	55.373	55.0593	55	-	-	-	67	12
+<<<<<<< HEAD
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033755	103.852	52.0934	125	-	-	-	136	-
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033758	232.752	50.9362	186	-	-	-	254	-
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	CP033759	3.548	47.2097	6	-	-	-	10	-
@@ -7546,6 +7610,8 @@ Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP0
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	CP033776	73.896	50.1908	44	-	-	-	93	-
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed4	-	CP033778	4.565	43.5487	9	-	-	-	9	-
 Klebsiella pneumoniae	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed5	-	CP033779	2.995	44.7412	3	-	-	-	3	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Klebsiella pneumoniae 30660/NJST258_1	Bacteria	Proteobacteria	Gammaproteobacteria	pNJST258N5	NZ_CP006924.1	CP006924	10.925	49.2265	12	-	-	-	14	2
 Klebsiella pneumoniae 30660/NJST258_1	Bacteria	Proteobacteria	Gammaproteobacteria	pNJST258N3	NZ_CP006925.1	CP006925	36.109	51.8015	32	-	-	-	36	4
 Klebsiella pneumoniae 30660/NJST258_1	Bacteria	Proteobacteria	Gammaproteobacteria	pNJST258N2	NZ_CP006926.1	CP006926	73.636	53.9369	80	-	-	-	95	15
@@ -7721,10 +7787,13 @@ Klebsiella quasipneumoniae subsp. similipneumoniae	Bacteria	Proteobacteria	Gamma
 Klebsiella quasivariicola	Bacteria	Proteobacteria	Gammaproteobacteria	pKPN1705-1	NZ_CP022824.1	CP022824	240.771	53.4363	238	-	-	-	280	42
 Klebsiella quasivariicola	Bacteria	Proteobacteria	Gammaproteobacteria	pKPN1705-2	NZ_CP022825.1	CP022825	97.896	52.2657	121	-	-	-	132	11
 Klebsiella quasivariicola	Bacteria	Proteobacteria	Gammaproteobacteria	pKPN1705-3	NZ_CP022826.1	CP022826	67.851	51.8489	80	-	-	-	86	6
+<<<<<<< HEAD
 Klebsiella sp. FDAARGOS_511	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033823	186.836	52.2415	175	-	-	-	196	-
 Klebsiella sp. FDAARGOS_511	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033825	3.897	42.212	6	-	-	-	8	-
 Klebsiella sp. FDAARGOS_511	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	-	CP033826	5.907	50.8549	7	-	-	-	7	-
 Klebsiella sp. FDAARGOS_511	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed4	-	CP033827	4.096	55.5176	5	-	-	-	6	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Klebsiella sp. KCL-2	Bacteria	Proteobacteria	Gammaproteobacteria	pMGD2	NC_003789.1	AY033498	3.564	47.7273	2	-	-	-	2	-
 Klebsiella sp. LTGPAF-6F	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	NZ_CP017451.1	CP017451	526.446	49.0466	487	-	-	-	597	110
 Klebsiella sp. LTGPAF-6F	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	NZ_CP017452.1	CP017452	89.552	51.3154	87	-	-	-	105	18
@@ -7935,8 +8004,11 @@ Lactobacillus brevis	Bacteria	Terrabacteria group	Firmicutes	pCD0817-1	-	CP03293
 Lactobacillus brevis	Bacteria	Terrabacteria group	Firmicutes	pCD0817-2	-	CP032933	30.861	40.5204	27	-	-	-	34	7
 Lactobacillus brevis	Bacteria	Terrabacteria group	Firmicutes	pCD0817-3	-	CP032934	26.298	41.1514	21	-	-	-	31	10
 Lactobacillus brevis	Bacteria	Terrabacteria group	Firmicutes	pCD0817-4	-	CP032935	12.035	57.3079	19	-	-	-	19	-
+<<<<<<< HEAD
 Lactobacillus brevis	Bacteria	Terrabacteria group	Firmicutes	p1	-	CP033886	33.127	40.5017	-	-	-	-	-	-
 Lactobacillus brevis	Bacteria	Terrabacteria group	Firmicutes	p2	-	CP033887	10.582	36.4959	-	-	-	-	-	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Lactobacillus brevis ATCC 367	Bacteria	Terrabacteria group	Firmicutes	1	NC_008498.1	CP000417	13.413	38.6416	14	-	-	-	17	3
 Lactobacillus brevis ATCC 367	Bacteria	Terrabacteria group	Firmicutes	2	NC_008499.1	CP000418	35.595	38.5138	30	-	-	-	43	13
 Lactobacillus brevis BSO 464	Bacteria	Terrabacteria group	Firmicutes	pL747-1	-	CP005978	15.324	41.0989	17	-	-	-	18	1
@@ -8338,10 +8410,13 @@ Lactobacillus plantarum	Bacteria	Terrabacteria group	Firmicutes	unnamed1	NZ_CP02
 Lactobacillus plantarum	Bacteria	Terrabacteria group	Firmicutes	unnamed2	NZ_CP024060.1	CP024060	74.727	38.6741	74	-	-	-	86	12
 Lactobacillus plantarum	Bacteria	Terrabacteria group	Firmicutes	unnamed3	NZ_CP024061.1	CP024061	55.963	37.6749	53	-	-	-	67	14
 Lactobacillus plantarum	Bacteria	Terrabacteria group	Firmicutes	unnamed4	NZ_CP024062.1	CP024062	22.35	38.7427	17	-	-	-	18	1
+<<<<<<< HEAD
 Lactobacillus plantarum	Bacteria	Terrabacteria group	Firmicutes	p_1	-	CP033889	53.517	38.7839	-	-	-	-	-	-
 Lactobacillus plantarum	Bacteria	Terrabacteria group	Firmicutes	p_2	-	CP033890	34.427	41.6592	-	-	-	-	-	-
 Lactobacillus plantarum	Bacteria	Terrabacteria group	Firmicutes	p_3	-	CP033891	14.538	35.3075	-	-	-	-	-	-
 Lactobacillus plantarum	Bacteria	Terrabacteria group	Firmicutes	p_4	-	CP033892	10.59	36.1284	-	-	-	-	-	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Lactobacillus plantarum 16	Bacteria	Terrabacteria group	Firmicutes	Lp16A	NC_021515.1	CP006034	7.24	33.3702	9	-	-	-	10	1
 Lactobacillus plantarum 16	Bacteria	Terrabacteria group	Firmicutes	Lp16C	NC_021516.1	CP006036	27.282	39.8578	32	-	-	-	33	1
 Lactobacillus plantarum 16	Bacteria	Terrabacteria group	Firmicutes	Lp16E	NC_021517.1	CP006038	40.147	41.358	32	-	-	-	43	11
@@ -8374,6 +8449,7 @@ Lactobacillus plantarum subsp. plantarum	Bacteria	Terrabacteria group	Firmicutes
 Lactobacillus plantarum subsp. plantarum	Bacteria	Terrabacteria group	Firmicutes	pLP2B	NZ_CP025993.1	CP025993	56.891	41.3791	57	-	-	-	58	1
 Lactobacillus plantarum subsp. plantarum	Bacteria	Terrabacteria group	Firmicutes	pLP2C	NZ_CP025994.1	CP025994	8.212	41.9021	8	-	-	-	8	-
 Lactobacillus plantarum subsp. plantarum	Bacteria	Terrabacteria group	Firmicutes	pMF1298-2	NZ_CP031772.1	CP031772	55.699	43.823	28	-	-	-	35	7
+<<<<<<< HEAD
 Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp2	NC_021225.2	CP005944	49.018	42.0131	35	-	-	-	50	15
 Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp3	NC_021226.2	-	39.468	42.2874	41	-	-	-	51	10
 Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp5	NC_021227.2	-	16.105	42.136	16	-	-	-	19	3
@@ -8384,6 +8460,18 @@ Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmic
 Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp2	NZ_CP005944.1	-	49.018	42.0131	40	-	-	-	43	-
 Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp3	NZ_CP005945.1	CP005945	39.468	42.2874	47	-	-	-	49	-
 Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp4	NZ_CP005946.1	-	37.042	41.2397	32	-	-	-	35	-
+=======
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp2	NC_021225.2	-	49.018	42.0131	35	-	-	-	50	15
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp3	NC_021226.2	CP005945	39.468	42.2874	41	-	-	-	51	10
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp5	NC_021227.2	-	16.105	42.136	16	-	-	-	19	3
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp6	NC_021228.1	CP005948	8.686	35.9774	9	-	-	-	9	-
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp1	NC_021233.2	-	45.418	39.6671	43	-	-	-	55	12
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp4	NC_021234.2	-	37.042	41.2397	30	-	-	-	40	10
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp1	NZ_CP005943.1	CP005943	45.418	39.6671	44	-	-	-	49	-
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp2	NZ_CP005944.1	CP005944	49.018	42.0131	40	-	-	-	43	-
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp3	NZ_CP005945.1	-	39.468	42.2874	47	-	-	-	49	-
+Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp4	NZ_CP005946.1	CP005946	37.042	41.2397	32	-	-	-	35	-
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp5	NZ_CP005947.1	CP005947	16.105	42.136	18	-	-	-	19	-
 Lactobacillus plantarum subsp. plantarum P-8	Bacteria	Terrabacteria group	Firmicutes	LBPp7	NZ_CP010527.1	CP010527	15.174	39.6797	16	-	-	-	19	3
 Lactobacillus plantarum subsp. plantarum ST-III	Bacteria	Terrabacteria group	Firmicutes	pST-III	NC_014558.2	CP002223	53.56	38.6856	45	-	-	-	51	6
@@ -9044,8 +9132,13 @@ Methylobacterium sp. AMS5	Bacteria	Proteobacteria	Alphaproteobacteria	pAMS5c	NZ_
 Methylobacterium sp. DM1	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed	NZ_CP029174.1	CP029174	240.873	67.3504	187	-	-	-	231	44
 Methylocystis bryophila	Bacteria	Proteobacteria	Alphaproteobacteria	p1	NZ_CP019949.1	CP019949	175.021	61.7846	120	-	-	-	128	8
 Methylomicrobium album BG8	Bacteria	Proteobacteria	Gammaproteobacteria	pMETAL01	-	CM001476	47.177	52.5977	45	-	-	-	46	1
+<<<<<<< HEAD
 Methylomicrobium alcaliphilum 20Z	Bacteria	Proteobacteria	Gammaproteobacteria	MEALZ_p	NC_016108.1	FO082061	128.415	48.7023	110	-	-	-	114	4
 Methylomicrobium alcaliphilum 20Z	Bacteria	Proteobacteria	Gammaproteobacteria	MEALZ_p	NZ_FO082061.1	-	128.415	48.7023	109	-	-	-	112	-
+=======
+Methylomicrobium alcaliphilum 20Z	Bacteria	Proteobacteria	Gammaproteobacteria	MEALZ_p	NC_016108.1	-	128.415	48.7023	110	-	-	-	114	4
+Methylomicrobium alcaliphilum 20Z	Bacteria	Proteobacteria	Gammaproteobacteria	MEALZ_p	NZ_FO082061.1	FO082061	128.415	48.7023	109	-	-	-	112	-
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Methylomonas koyamae	Bacteria	Proteobacteria	Gammaproteobacteria	pLM6	NZ_CP023670.1	CP023670	186.658	50.8808	144	-	-	-	157	13
 Methylomonas sp. DH-1	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	NZ_CP014361.1	CP014361	277.875	51.665	223	-	-	-	242	19
 Methylophaga frappieri	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	NC_017858.1	CP003381	47.825	54.597	53	-	-	-	53	-
@@ -9574,9 +9667,12 @@ Pantoea agglomerans	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	NZ_CP01
 Pantoea agglomerans	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	NZ_CP016891.1	CP016891	216.117	52.3189	173	-	-	-	223	50
 Pantoea agglomerans	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	NZ_CP016892.1	CP016892	173.592	52.4362	143	-	-	-	157	14
 Pantoea agglomerans	Bacteria	Proteobacteria	Gammaproteobacteria	pPAGA3	NC_014227.1	FN868248	2.734	51.7191	4	-	-	-	4	-
+<<<<<<< HEAD
 Pantoea agglomerans	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	NZ_CP031650.1	CP031650	520.959	53.6889	488	-	-	-	507	19
 Pantoea agglomerans	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	NZ_CP031651.1	CP031651	182.169	52.3009	154	-	-	-	160	6
 Pantoea agglomerans	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed3	NZ_CP031652.1	CP031652	152.523	48.87	114	-	-	-	156	42
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Pantoea alhagi	Bacteria	Proteobacteria	Gammaproteobacteria	pPALTYR11Z	NZ_CP019707.1	CP019707	76.331	50.2076	60	-	-	-	66	6
 Pantoea ananatis	Bacteria	Proteobacteria	Gammaproteobacteria	CFH1-7plasmid1	NZ_CM003365.1	CM003365	288.44	51.755	251	-	-	-	263	12
 Pantoea ananatis	Bacteria	Proteobacteria	Gammaproteobacteria	CFH1-7plasmid2	NZ_CM003366.1	CM003366	145.629	48.5837	122	-	-	-	157	35
@@ -10390,9 +10486,12 @@ Pseudomonas aeruginosa	Bacteria	Proteobacteria	Gammaproteobacteria	pCR1	NZ_CP020
 Pseudomonas aeruginosa	Bacteria	Proteobacteria	Gammaproteobacteria	pK34-7-1	NZ_CP029708.1	CP029708	4.44	30.0676	3	-	-	-	3	-
 Pseudomonas aeruginosa	Bacteria	Proteobacteria	Gammaproteobacteria	pY89	NZ_CP030914.1	CP030914	85.842	60.0953	93	-	-	-	96	3
 Pseudomonas aeruginosa	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	NZ_CP032256.1	CP032256	129.422	57.515	150	-	-	-	153	3
+<<<<<<< HEAD
 Pseudomonas aeruginosa	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed1	-	CP033772	1.249	51.7214	2	-	-	-	4	-
 Pseudomonas aeruginosa	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed2	-	CP033773	1.089	46.3728	2	-	-	-	2	-
 Pseudomonas aeruginosa	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	-	CP033834	36.032	61.2816	42	-	-	-	51	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Pseudomonas aeruginosa PA96	Bacteria	Proteobacteria	Gammaproteobacteria	pOZ176	NC_022344.1	KC543497	500.839	57.598	556	-	-	-	585	29
 Pseudomonas alcaligenes	Bacteria	Proteobacteria	Gammaproteobacteria	pRA2	NC_005909.1	U88088	32.743	59.7716	29	-	-	-	29	-
 Pseudomonas amygdali pv. lachrymans str. M301315	Bacteria	Proteobacteria	Gammaproteobacteria	pMPPla107	NZ_CM000959.1	-	967.397	52.7708	1022	-	38	1	1082	21
@@ -12081,7 +12180,10 @@ Serratia marcescens SM39	Bacteria	Proteobacteria	Gammaproteobacteria	pSMC2	NZ_AP
 Serratia marcescens WW4	Bacteria	Proteobacteria	Gammaproteobacteria	pSmWW4	NC_020212.1	CP003960	3.248	47.814	3	-	-	-	5	2
 Serratia plymuthica 4Rx13	Bacteria	Proteobacteria	Gammaproteobacteria	p75	NC_021594.1	CP006251	75.721	48.1703	84	-	-	-	85	1
 Serratia proteamaculans 568	Bacteria	Proteobacteria	Gammaproteobacteria	pSPRO01	NC_009829.1	CP000827	46.804	49.2308	69	-	-	-	70	1
+<<<<<<< HEAD
 Serratia sp. FDAARGOS_506	Bacteria	Proteobacteria	Gammaproteobacteria	unnamed	-	CP033830	43.953	50.4835	53	-	-	-	55	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Serratia sp. SCBI	Bacteria	Proteobacteria	Gammaproteobacteria	SCBI_Pl	NZ_CP003425.1	CP003425	67.208	55.0411	65	-	-	-	69	4
 Serratia sp. SSNIH1	Bacteria	Proteobacteria	Gammaproteobacteria	pSER-840e	NZ_CP026384.1	CP026384	36.87	49.1863	41	-	-	-	49	8
 Serratia sp. SSNIH1	Bacteria	Proteobacteria	Gammaproteobacteria	pKPC-56ce	NZ_CP026385.1	CP026385	82.86	51.7487	94	-	-	-	102	8
@@ -13039,8 +13141,11 @@ Staphylococcus epidermidis	Bacteria	Terrabacteria group	Firmicutes	unnamed2	NZ_C
 Staphylococcus epidermidis	Bacteria	Terrabacteria group	Firmicutes	pCSF41498_1	NZ_CP030247.1	CP030247	24.519	29.1325	26	-	-	-	26	-
 Staphylococcus epidermidis	Bacteria	Terrabacteria group	Firmicutes	pCSF41498_2	NZ_CP030248.1	CP030248	21.583	27.8877	23	-	-	-	27	4
 Staphylococcus epidermidis	Bacteria	Terrabacteria group	Firmicutes	pCSF41498_3	NZ_CP030249.1	CP030249	8.256	30.1357	7	-	-	-	8	1
+<<<<<<< HEAD
 Staphylococcus epidermidis	Bacteria	Terrabacteria group	Firmicutes	unnamed1	-	CP033781	30.843	28.149	30	-	-	-	39	-
 Staphylococcus epidermidis	Bacteria	Terrabacteria group	Firmicutes	unnamed2	-	CP033783	2.366	31.0651	2	-	-	-	2	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Staphylococcus epidermidis ATCC 12228	Bacteria	Terrabacteria group	Firmicutes	pSE-12228-06	NC_005003.1	AE015935	6.585	31.4958	11	-	-	-	11	-
 Staphylococcus epidermidis ATCC 12228	Bacteria	Terrabacteria group	Firmicutes	pSE-12228-05	NC_005004.1	AE015934	24.365	29.2715	22	-	-	-	22	-
 Staphylococcus epidermidis ATCC 12228	Bacteria	Terrabacteria group	Firmicutes	pSE-12228-04	NC_005005.1	AE015933	17.261	27.9879	16	-	-	-	16	-
@@ -13072,8 +13177,11 @@ Staphylococcus haemolyticus JCSC1435	Bacteria	Terrabacteria group	Firmicutes	pSH
 Staphylococcus haemolyticus JCSC1435	Bacteria	Terrabacteria group	Firmicutes	pSHaeC	NC_007171.1	AP006719	8.18	30.2567	9	-	-	-	9	-
 Staphylococcus hominis	Bacteria	Terrabacteria group	Firmicutes	unnamed1	NZ_CP014103.1	CP014103	22.512	29.7353	26	-	-	-	26	-
 Staphylococcus hominis	Bacteria	Terrabacteria group	Firmicutes	unnamed2	NZ_CP014104.1	CP014104	14.511	30.2116	14	-	-	-	15	1
+<<<<<<< HEAD
 Staphylococcus hominis	Bacteria	Terrabacteria group	Firmicutes	unnamed1	-	CP033731	32.498	29.4018	33	-	-	-	36	-
 Staphylococcus hominis	Bacteria	Terrabacteria group	Firmicutes	unnamed2	-	CP033733	4.439	30.0743	3	-	-	-	3	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Staphylococcus hominis subsp. hominis	Bacteria	Terrabacteria group	Firmicutes	pKH1	NZ_CM007920.1	CM007920	4.439	30.0743	2	-	-	-	3	1
 Staphylococcus hyicus	Bacteria	Terrabacteria group	Firmicutes	pKKS966	NC_015171.1	FN677368	4.957	36.0904	5	-	-	-	5	-
 Staphylococcus hyicus	Bacteria	Terrabacteria group	Firmicutes	unnamed	NC_016137.1	JF968541	1.719	29.5521	2	-	-	-	2	-
@@ -13205,7 +13313,10 @@ Streptococcus pyogenes	Bacteria	Terrabacteria group	Firmicutes	pRW35	NC_010423.2
 Streptococcus pyogenes	Bacteria	Terrabacteria group	Firmicutes	pGA2000	NC_019252.1	JF308631	4.967	37.3264	3	-	-	-	3	-
 Streptococcus pyogenes	Bacteria	Terrabacteria group	Firmicutes	pA996	NC_022076.1	KC895877	3.62	31.8785	5	-	-	-	5	-
 Streptococcus pyogenes	Bacteria	Terrabacteria group	Firmicutes	pA852	NC_022077.1	KC895878	2.644	34.4554	3	-	-	-	3	-
+<<<<<<< HEAD
 Streptococcus pyogenes	Bacteria	Terrabacteria group	Firmicutes	unnamed	-	CP033816	2.366	31.0228	2	-	-	-	2	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Streptococcus respiraculi	Bacteria	Terrabacteria group	Firmicutes	unnamed1	NZ_CP022681.1	CP022681	26.37	40.0758	35	-	-	-	38	3
 Streptococcus salivarius	Bacteria	Terrabacteria group	Firmicutes	unnamed	NZ_CP015284.1	CP015284	126.555	35.9425	101	-	-	-	110	9
 Streptococcus salivarius K12	Bacteria	Terrabacteria group	Firmicutes	pRSSL1	NZ_ALIF01000007.1	ALIF01000007	185.045	34.4446	148	-	-	-	171	23
@@ -13573,9 +13684,12 @@ Thermus thermophilus	Bacteria	Terrabacteria group	Deinococcus-Thermus	pTT8	NC_00
 Thermus thermophilus	Bacteria	Terrabacteria group	Deinococcus-Thermus	pTF62	NC_007190.1	DQ058601	10.402	67.6024	15	-	-	-	15	-
 Thermus thermophilus	Bacteria	Terrabacteria group	Deinococcus-Thermus	pVV8	NC_017767.1	AB677526	81.151	67.9868	89	-	-	-	91	2
 Thermus thermophilus	Bacteria	Terrabacteria group	Deinococcus-Thermus	pTMY	NZ_AP017921.1	AP017921	19.139	67.4382	23	-	-	-	29	6
+<<<<<<< HEAD
 Thermus thermophilus	Bacteria	Terrabacteria group	Deinococcus-Thermus	2	-	LR027518	9.799	67.3844	12	-	-	-	12	-
 Thermus thermophilus	Bacteria	Terrabacteria group	Deinococcus-Thermus	3	-	LR027519	77.135	68.6485	106	-	-	-	115	-
 Thermus thermophilus	Bacteria	Terrabacteria group	Deinococcus-Thermus	4	-	LR027520	370.865	67.2423	429	-	-	57	510	-
+=======
+>>>>>>> 681deaa605fad13827ffa1957b82390d68743ae2
 Thermus thermophilus HB27	Bacteria	Terrabacteria group	Deinococcus-Thermus	pTT27	NC_005838.1	AE017222	232.605	69.1627	202	-	-	-	233	31
 Thermus thermophilus HB8	Bacteria	Terrabacteria group	Deinococcus-Thermus	pTT27	NC_006462.1	AP008227	256.992	69.3562	251	-	-	-	251	-
 Thermus thermophilus HB8	Bacteria	Terrabacteria group	Deinococcus-Thermus	pTT8	NC_006463.1	AP008228	9.322	69.0088	14	-	-	-	14	-
