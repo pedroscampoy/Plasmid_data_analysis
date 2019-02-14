@@ -1,0 +1,19 @@
+%appinstall Jupyter
+ 	echo "Installing all dependencies"
+    apt-get update && apt-get -y upgrade
+    apt-get -y install \
+    build-essential \
+    wget \
+    curl \
+    ca-certificates \
+    libglib2.0-0 \
+    libxext6 \
+    libsm6 \
+    libxrender1 \
+    bzip2 \
+    git
+
+
+%apphelp Jupyter
+	Container with Jupyter Notebook for Ubuntu 18
+	This installation is based on Python 3.6
