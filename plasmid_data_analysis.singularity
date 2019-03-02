@@ -1,0 +1,38 @@
+Bootstrap: docker
+From: ubuntu:18.10
+
+%help
+    Container with Jupyter Notebook for Ubuntu 18
+    This installation is based on Python 3.6
+
+%post
+    echo "Installing all dependencies"
+    apt-get update && apt-get -y upgrade
+    apt-get -y install \
+    build-essential \
+    wget \
+    curl \
+    bzip2 \
+    git \
+    python3.6
+    
+    apt-get update
+    apt-get -y install python3-pip
+
+    #pip3 install --upgrade pip
+    #python3 -m pip uninstall pip && apt install python3-pip --reinstall
+    
+    #Install jupyter
+    pip3 install jupyter
+
+    #Install specific libraries
+    pip3 install matplotlib
+    pip3 install pandas
+
+    rm -rf /var/lib/apt/lists/*
+    apt-get clean
+
+        
+%runscript
+    jupyter notebook --allow-root "$@"    
+
